@@ -5,8 +5,7 @@
 
 有关字幕作品
 -----
-我们的字幕作品信息均会在 **[开坑记录](https://github.com/orgs/STYHSub/projects/1)** 中显示。未在此列表的，均不属于我组字幕。
-
+我们的字幕作品信息均会在 **[开坑记录](https://github.com/orgs/STYHSub/projects/1)** 中显示。
 
 
 
